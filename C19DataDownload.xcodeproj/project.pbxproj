@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7624D7D827AF590F007CACAB /* WriteJsonUtility.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7624D7D727AF590F007CACAB /* WriteJsonUtility.swift */; };
 		76ADD40127AB91850031B637 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76ADD40027AB91850031B637 /* main.swift */; };
 		76ADD40927AB921A0031B637 /* LocationModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76ADD40827AB921A0031B637 /* LocationModel.swift */; };
 		76ADD40B27AB976E0031B637 /* ItalyCsvModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76ADD40A27AB976E0031B637 /* ItalyCsvModel.swift */; };
@@ -27,6 +28,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		7624D7D727AF590F007CACAB /* WriteJsonUtility.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WriteJsonUtility.swift; sourceTree = "<group>"; };
 		76ADD3FD27AB91850031B637 /* C19DataDownload */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = C19DataDownload; sourceTree = BUILT_PRODUCTS_DIR; };
 		76ADD40027AB91850031B637 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		76ADD40827AB921A0031B637 /* LocationModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationModel.swift; sourceTree = "<group>"; };
@@ -46,6 +48,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		7624D7D627AF58CB007CACAB /* Utility */ = {
+			isa = PBXGroup;
+			children = (
+				7624D7D727AF590F007CACAB /* WriteJsonUtility.swift */,
+			);
+			path = Utility;
+			sourceTree = "<group>";
+		};
 		76ADD3F427AB91840031B637 = {
 			isa = PBXGroup;
 			children = (
@@ -67,6 +77,7 @@
 			children = (
 				76ADD40027AB91850031B637 /* main.swift */,
 				76ADD40727AB91AF0031B637 /* Model */,
+				7624D7D627AF58CB007CACAB /* Utility */,
 			);
 			path = C19DataDownload;
 			sourceTree = "<group>";
@@ -112,7 +123,7 @@
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1320;
-				LastUpgradeCheck = 1320;
+				LastUpgradeCheck = 1330;
 				TargetAttributes = {
 					76ADD3FC27AB91850031B637 = {
 						CreatedOnToolsVersion = 13.2.1;
@@ -145,6 +156,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7624D7D827AF590F007CACAB /* WriteJsonUtility.swift in Sources */,
 				76ADD40927AB921A0031B637 /* LocationModel.swift in Sources */,
 				76ADD40B27AB976E0031B637 /* ItalyCsvModel.swift in Sources */,
 				76ADD40127AB91850031B637 /* main.swift in Sources */,
@@ -273,6 +285,7 @@
 		76ADD40527AB91850031B637 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "-";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 2EWZNQ6V4C;
 				ENABLE_HARDENED_RUNTIME = YES;
@@ -284,6 +297,7 @@
 		76ADD40627AB91850031B637 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "-";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 2EWZNQ6V4C;
 				ENABLE_HARDENED_RUNTIME = YES;

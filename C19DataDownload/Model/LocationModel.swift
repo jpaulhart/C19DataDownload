@@ -18,8 +18,10 @@ public class Location {
     
     init() { }
 
-    public var id: UUID = UUID()
-    public var updateTime: Date = Date.now
+    public var id: UUID = UUID()                         // Unique ID
+    public var displayName: String = ""                  // Display name
+    public var fileName: String = ""                     // JSON file name
+    public var updateTime: Date = Date.now               // Date/Time object created
     
     public var country: String = ""                      // Caption for the location
     public var region: String = ""                       // Subcation to show for the location
