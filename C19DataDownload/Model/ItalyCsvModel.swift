@@ -24,7 +24,7 @@ class ItalyItems {
     }
     
     func loadCsvData () {
-        print("ItalyCsvModel:loadCsvData - Loading Italy COVID data.")
+        print("     ItalyCsvModel:loadCsvData - Loading Italy COVID data.")
         print()
         if let url = URL(string: italyUrlCsv) {
             do {
@@ -71,18 +71,18 @@ class ItalyItems {
                         italyItems.append(item)
                         
                     } else {
-                        print("ItalyCsvModel:loadCsvData - Line \(lineNo) has fields error")
+                        print("     ItalyCsvModel:loadCsvData - Line \(lineNo) has fields error")
                     }
                 }
                 
             } catch {
-                print("ItalyCsvModel:loadCsvData - File read error")
+                print("     ItalyCsvModel:loadCsvData - File read error")
             }
         } else {
-            print("ItalyCsvModel:loadCsvData - Invalid URL: \(italyUrlCsv)")
+            print("     ItalyCsvModel:loadCsvData - Invalid URL: \(italyUrlCsv)")
         }
         italyLoadTimestamp = Date.now
-        print("ItalyCsvModel:loadCsvData - Loaded Italy COVID data.")
+        print("     ItalyCsvModel:loadCsvData - Loaded Italy COVID data.")
     }
     
     func convertCsvData() {

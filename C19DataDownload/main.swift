@@ -24,7 +24,7 @@ if inputArgs.count == 2 {
         print("Ending World Data loading: \(Date.now)")
 
         print("Writing JSON data: \(Date.now)")
-        writeJson(italyItems: italyItems, worldItems: worldItems, jsonDirectory: locationJsonPath)
+        writeJsonFiles(italyItems: italyItems, worldItems: worldItems, jsonDirectory: locationJsonPath)
         print("Wrote JSON data: \(Date.now)")
 
     } else {

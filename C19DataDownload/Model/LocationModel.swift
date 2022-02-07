@@ -14,7 +14,7 @@ class Locations: ObservableObject {
 }
 
 /// Contains the data for a given location
-public class Location {
+public class Location: Codable {
     
     init() { }
 

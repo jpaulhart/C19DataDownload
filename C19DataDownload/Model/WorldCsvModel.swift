@@ -35,18 +35,18 @@ class WorldItems {
     }
     
     func loadConfirmedData() throws -> CSV {
-        print("WorldCsvModel:loadConfirmedData - Loading World confirmed COVID data.")
+        print("     WorldCsvModel:loadConfirmedData - Loading World confirmed COVID data.")
         print()
         if let url = URL(string: confirmedUrl) {
             do {
                 return try CSV(url: url)
             } catch {
-                print("WorldCsvModel:loadConfirmedData - Confirmed file read error")
+                print("     WorldCsvModel:loadConfirmedData - Confirmed file read error")
             }
         } else {
-            print("WorldCsvModel:loadConfirmedData - In valid confirmed URL: \(confirmedUrl)")
+            print("     WorldCsvModel:loadConfirmedData - In valid confirmed URL: \(confirmedUrl)")
         }
-        print("WorldCsvModel:loadConfirmedData - Loaded world confirmed COVID data.")
+        print("     WorldCsvModel:loadConfirmedData - Loaded world confirmed COVID data.")
         throw UrlError.obvious
     }
     
