@@ -52,7 +52,7 @@
       </BuildableProductRunnable>
       <CommandLineArguments>
          <CommandLineArgument
-            argument = "/Users/paulhart/Dropbox/Covid-19/C19DataDownload/LocationData"
+            argument = "/Users/paulhart/Dropbox/Covid-19/C19DataDownload/C19DataDownload/LocationData"
             isEnabled = "YES">
          </CommandLineArgument>
       </CommandLineArguments>

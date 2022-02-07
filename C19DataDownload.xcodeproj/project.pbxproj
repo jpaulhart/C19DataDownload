@@ -60,6 +60,7 @@
 			isa = PBXGroup;
 			children = (
 				76ADD3FF27AB91850031B637 /* C19DataDownload */,
+				76ECBE8227B0F00100C978DF /* LocationData */,
 				76ADD3FE27AB91850031B637 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -90,6 +91,14 @@
 				76ADD40C27AB979E0031B637 /* WorldCsvModel.swift */,
 			);
 			path = Model;
+			sourceTree = "<group>";
+		};
+		76ECBE8227B0F00100C978DF /* LocationData */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = LocationData;
+			path = C19DataDownload/LocationData;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
