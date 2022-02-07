@@ -8,9 +8,24 @@
 import Foundation
 import SwiftUI
 
+class LocationIndex: ObservableObject, Codable {
+    var locationIndexItems: [LocationIndexItem] = []      // Collection of Index entries 
+}
+
+class LocationIndexItem: Codable {
+    var id: UUID = UUID()                                 // Item id
+    var displayName: String = ""                          // Display Name
+    var fileName: String = ""                             // File Name
+    
+    init(displayName: String, fileName: String) {
+        self.displayName = displayName
+        self.fileName = fileName
+    }
+}
+
 //
 class Locations: ObservableObject {
-    var locations: [String: Location] = [:]
+    var locations: [String: Location] = [:]              // Collection of Locations
 }
 
 /// Contains the data for a given location
