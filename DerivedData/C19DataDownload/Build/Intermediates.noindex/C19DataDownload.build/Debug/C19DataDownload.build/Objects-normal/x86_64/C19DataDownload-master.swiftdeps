@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.6 (swiftlang-5.6.0.320.8 clang-1316.0.18.8)"
+options: "f3546c685789853fc596fb8ae810bd68eb65c12a6e7c9752f40e64800e1a5b85"
+build_start_time: [1644258222, 158723831]
+build_end_time: [1644258238, 20875930]
+inputs:
+  "/Users/paulhart/Dropbox/Covid-19/C19DataDownload/C19DataDownload/Model/ItalyCsvModel.swift": [1644204837, 144769191]
+  "/Users/paulhart/Dropbox/Covid-19/C19DataDownload/C19DataDownload/Model/LocationModel.swift": [1644213823, 818834543]
+  "/Users/paulhart/Dropbox/Covid-19/C19DataDownload/C19DataDownload/Model/WorldCsvModel.swift": [1644204850, 225810050]
+  "/Users/paulhart/Dropbox/Covid-19/C19DataDownload/C19DataDownload/Utility/WriteJsonUtility.swift": [1644214034, 167412519]
+  "/Users/paulhart/Dropbox/Covid-19/C19DataDownload/C19DataDownload/main.swift": [1644204861, 941231966]

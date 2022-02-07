@@ -1,0 +1,6 @@
+Target dependency graph (3 targets)
+SwiftCSV in SwiftCSV, no dependencies
+SwiftCSV in SwiftCSV, depends on:
+SwiftCSV in SwiftCSV (explicit)
+C19DataDownload in C19DataDownload, depends on:
+SwiftCSV in SwiftCSV (explicit)

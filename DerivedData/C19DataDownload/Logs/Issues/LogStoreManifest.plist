@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>5B337427-9CDD-48AD-9969-F694C1604530</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.tool</string>
+			<key>fileName</key>
+			<string>5B337427-9CDD-48AD-9969-F694C1604530.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>C19DataDownload-cnpzvmjghxcfncaujqilsjpamlii</string>
+			<key>timeStartedRecording</key>
+			<real>665951022.01615</real>
+			<key>timeStoppedRecording</key>
+			<real>665951038.59568202</real>
+			<key>title</key>
+			<string>Build target C19DataDownload</string>
+			<key>uniqueIdentifier</key>
+			<string>5B337427-9CDD-48AD-9969-F694C1604530</string>
+		</dict>
+		<key>CEC2CD27-35DD-43D5-8289-EBDC0CAB306C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.target</string>
+			<key>fileName</key>
+			<string>CEC2CD27-35DD-43D5-8289-EBDC0CAB306C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>SwiftCSV-easvaffjduwxjkcskafwghlhrrvm</string>
+			<key>timeStartedRecording</key>
+			<real>665951008.941594</real>
+			<key>timeStoppedRecording</key>
+			<real>665951022.70346904</real>
+			<key>title</key>
+			<string>Build target SwiftCSV</string>
+			<key>uniqueIdentifier</key>
+			<string>CEC2CD27-35DD-43D5-8289-EBDC0CAB306C</string>
+		</dict>
+	</dict>
+	<key>preserveOldLogs</key>
+	<true/>
+</dict>
+</plist>

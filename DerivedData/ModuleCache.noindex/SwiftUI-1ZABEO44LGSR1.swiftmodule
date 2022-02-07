@@ -1,0 +1,148 @@
+---
+path:            '/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/12.3/SwiftUI.swiftmodule/x86_64-apple-macos.swiftmodule'
+dependencies:
+  - mtime:           1643134559000000000
+    path:            '/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/12.3/SwiftUI.swiftmodule/x86_64-apple-macos.swiftmodule'
+    size:            3586848
+  - mtime:           1642091785000000000
+    path:            'usr/lib/swift/Swift.swiftmodule/x86_64-apple-macos.swiftinterface'
+    size:            1944888
+    sdk_relative:    true
+  - mtime:           1642080255000000000
+    path:            'usr/include/Darwin.apinotes'
+    size:            1133
+    sdk_relative:    true
+  - mtime:           1642086707000000000
+    path:            'usr/include/objc/ObjectiveC.apinotes'
+    size:            11147
+    sdk_relative:    true
+  - mtime:           1642092608000000000
+    path:            'System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes'
+    size:            55309
+    sdk_relative:    true
+  - mtime:           1642392454000000000
+    path:            'usr/include/xpc/XPC.apinotes'
+    size:            123
+    sdk_relative:    true
+  - mtime:           1642395191000000000
+    path:            'System/Library/Frameworks/Security.framework/Headers/Security.apinotes'
+    size:            162
+    sdk_relative:    true
+  - mtime:           1642158782000000000
+    path:            'System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes'
+    size:            80986
+    sdk_relative:    true
+  - mtime:           1642096674000000000
+    path:            'usr/lib/swift/Darwin.swiftmodule/x86_64-apple-macos.swiftinterface'
+    size:            30033
+    sdk_relative:    true
+  - mtime:           1642091789000000000
+    path:            'usr/lib/swift/_Concurrency.swiftmodule/x86_64-apple-macos.swiftinterface'
+    size:            96458
+    sdk_relative:    true
+  - mtime:           1642097201000000000
+    path:            'System/Library/Frameworks/Combine.framework/Modules/Combine.swiftmodule/x86_64-apple-macos.swiftinterface'
+    size:            167991
+    sdk_relative:    true
+  - mtime:           1642097184000000000
+    path:            'usr/lib/swift/ObjectiveC.swiftmodule/x86_64-apple-macos.swiftinterface'
+    size:            3379
+    sdk_relative:    true
+  - mtime:           1642097317000000000
+    path:            'usr/lib/swift/Dispatch.swiftmodule/x86_64-apple-macos.swiftinterface'
+    size:            51232
+    sdk_relative:    true
+  - mtime:           1642097447000000000
+    path:            'usr/lib/swift/CoreFoundation.swiftmodule/x86_64-apple-macos.swiftinterface'
+    size:            777
+    sdk_relative:    true
+  - mtime:           1642097646000000000
+    path:            'usr/lib/swift/IOKit.swiftmodule/x86_64-apple-macos.swiftinterface'
+    size:            3429
+    sdk_relative:    true
+  - mtime:           1642097758000000000
+    path:            'usr/lib/swift/CoreGraphics.swiftmodule/x86_64-apple-macos.swiftinterface'
+    size:            45467
+    sdk_relative:    true
+  - mtime:           1642097379000000000
+    path:            'usr/lib/swift/XPC.swiftmodule/x86_64-apple-macos.swiftinterface'
+    size:            1882
+    sdk_relative:    true
+  - mtime:           1642098527000000000
+    path:            'usr/lib/swift/Foundation.swiftmodule/x86_64-apple-macos.swiftinterface'
+    size:            623186
+    sdk_relative:    true
+  - mtime:           1642099032000000000
+    path:            'System/Library/Frameworks/Accessibility.framework/Modules/Accessibility.swiftmodule/x86_64-apple-macos.swiftinterface'
+    size:            12069
+    sdk_relative:    true
+  - mtime:           1642395825000000000
+    path:            'System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes'
+    size:            1662
+    sdk_relative:    true
+  - mtime:           1642396270000000000
+    path:            'System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes'
+    size:            2012
+    sdk_relative:    true
+  - mtime:           1642158627000000000
+    path:            'System/Library/Frameworks/CoreData.framework/Headers/CoreData.apinotes'
+    size:            7721
+    sdk_relative:    true
+  - mtime:           1642103320000000000
+    path:            'System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes'
+    size:            67146
+    sdk_relative:    true
+  - mtime:           1642195510000000000
+    path:            'System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes'
+    size:            36607
+    sdk_relative:    true
+  - mtime:           1642391191000000000
+    path:            'System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes'
+    size:            7428
+    sdk_relative:    true
+  - mtime:           1642397409000000000
+    path:            'System/Library/Frameworks/AppKit.framework/Headers/AppKit.apinotes'
+    size:            381782
+    sdk_relative:    true
+  - mtime:           1642393878000000000
+    path:            'usr/lib/swift/CoreData.swiftmodule/x86_64-apple-macos.swiftinterface'
+    size:            38855
+    sdk_relative:    true
+  - mtime:           1642099721000000000
+    path:            'usr/lib/swift/Metal.swiftmodule/x86_64-apple-macos.swiftinterface'
+    size:            15846
+    sdk_relative:    true
+  - mtime:           1642099785000000000
+    path:            'usr/lib/swift/CoreImage.swiftmodule/x86_64-apple-macos.swiftinterface'
+    size:            516
+    sdk_relative:    true
+  - mtime:           1642100259000000000
+    path:            'usr/lib/swift/QuartzCore.swiftmodule/x86_64-apple-macos.swiftinterface'
+    size:            1562
+    sdk_relative:    true
+  - mtime:           1642396689000000000
+    path:            'usr/lib/swift/AppKit.swiftmodule/x86_64-apple-macos.swiftinterface'
+    size:            53135
+    sdk_relative:    true
+  - mtime:           1642481123000000000
+    path:            'System/Library/Frameworks/DeveloperToolsSupport.framework/Modules/DeveloperToolsSupport.swiftmodule/x86_64-apple-macos.swiftinterface'
+    size:            2319
+    sdk_relative:    true
+  - mtime:           1642395776000000000
+    path:            'System/Library/Frameworks/UniformTypeIdentifiers.framework/Headers/UniformTypeIdentifiers.apinotes'
+    size:            1666
+    sdk_relative:    true
+  - mtime:           1642393248000000000
+    path:            'usr/lib/swift/UniformTypeIdentifiers.swiftmodule/x86_64-apple-macos.swiftinterface'
+    size:            17410
+    sdk_relative:    true
+  - mtime:           1642097385000000000
+    path:            'usr/lib/swift/os.swiftmodule/x86_64-apple-macos.swiftinterface'
+    size:            110686
+    sdk_relative:    true
+  - mtime:           1642740995000000000
+    path:            'System/Library/Frameworks/SwiftUI.framework/Modules/SwiftUI.swiftmodule/x86_64-apple-macos.swiftinterface'
+    size:            942422
+    sdk_relative:    true
+version:         1
+...
