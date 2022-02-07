@@ -4,6 +4,7 @@
 //
 //  Created by Paul Hart on 2022-02-02.
 //
+// /Users/paulhart/Dropbox/Covid-19/C19DataDownload/DerivedData/C19DataDownload/Build/Products/Debug/C19DataDownload /Users/paulhart/Dropbox/Covid-19/C19DataDownload/C19DataDownload/LocationData
 
 import Foundation
 
