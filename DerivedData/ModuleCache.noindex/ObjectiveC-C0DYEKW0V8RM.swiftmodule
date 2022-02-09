@@ -1,0 +1,32 @@
+---
+path:            '/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/12.3/ObjectiveC.swiftmodule/x86_64-apple-macos.swiftmodule'
+dependencies:
+  - mtime:           1643927147000000000
+    path:            '/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/12.3/ObjectiveC.swiftmodule/x86_64-apple-macos.swiftmodule'
+    size:            39808
+  - mtime:           1643453388000000000
+    path:            'usr/lib/swift/Swift.swiftmodule/x86_64-apple-macos.swiftinterface'
+    size:            1937793
+    sdk_relative:    true
+  - mtime:           1643443868000000000
+    path:            'usr/include/Darwin.apinotes'
+    size:            1133
+    sdk_relative:    true
+  - mtime:           1643449063000000000
+    path:            'usr/include/objc/ObjectiveC.apinotes'
+    size:            11147
+    sdk_relative:    true
+  - mtime:           1643463025000000000
+    path:            'usr/lib/swift/Darwin.swiftmodule/x86_64-apple-macos.swiftinterface'
+    size:            30144
+    sdk_relative:    true
+  - mtime:           1643453390000000000
+    path:            'usr/lib/swift/_Concurrency.swiftmodule/x86_64-apple-macos.swiftinterface'
+    size:            97431
+    sdk_relative:    true
+  - mtime:           1643463302000000000
+    path:            'usr/lib/swift/ObjectiveC.swiftmodule/x86_64-apple-macos.swiftinterface'
+    size:            3376
+    sdk_relative:    true
+version:         1
+...

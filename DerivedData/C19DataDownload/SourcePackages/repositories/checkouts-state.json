@@ -1,0 +1,11 @@
+{
+  "object" : {
+    "repositories" : {
+      "https://github.com/swiftcsv/SwiftCSV.git" : {
+        "repositoryURL" : "https://github.com/swiftcsv/SwiftCSV.git",
+        "subpath" : "SwiftCSV-2adb555a"
+      }
+    }
+  },
+  "version" : 1
+}

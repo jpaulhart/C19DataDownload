@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "6A1B78A701676F8FB9426AD0FFD684DE5C48CA43",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "3BF49EDF5038795EBFAFA8578150CD385BA00EB4" : 0,
+    "6A1B78A701676F8FB9426AD0FFD684DE5C48CA43" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F9B255B9-7945-411F-BEDE-79311463928F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "3BF49EDF5038795EBFAFA8578150CD385BA00EB4" : "C19DataDownload\/DerivedData\/C19DataDownload\/SourcePackages\/checkouts\/SwiftCSV\/",
+    "6A1B78A701676F8FB9426AD0FFD684DE5C48CA43" : "C19DataDownload\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "C19DataDownload",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "C19DataDownload.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/paulhart\/Dropbox\/Covid-19\/C19DataDownload\/DerivedData\/C19DataDownload\/SourcePackages\/repositories\/SwiftCSV-2adb555a",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3BF49EDF5038795EBFAFA8578150CD385BA00EB4"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jpaulhart\/C19DataDownload.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6A1B78A701676F8FB9426AD0FFD684DE5C48CA43"
+    }
+  ]
+}
