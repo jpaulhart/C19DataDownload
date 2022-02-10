@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>936BEF59-899E-4AC6-8C30-E31F85625C34</key>
+		<key>6FACB7AD-FCC9-4F82-B78E-364ECDED65E1</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogMajorGroupSection</string>
@@ -15,24 +15,52 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.target.product-type.tool</string>
 			<key>fileName</key>
-			<string>936BEF59-899E-4AC6-8C30-E31F85625C34.xcactivitylog</string>
+			<string>6FACB7AD-FCC9-4F82-B78E-364ECDED65E1.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>E</string>
+				<string>S</string>
 			</dict>
 			<key>signature</key>
 			<string>C19DataDownload-cnpzvmjghxcfncaujqilsjpamlii</string>
 			<key>timeStartedRecording</key>
-			<real>666054205.37464797</real>
+			<real>666156126.11842597</real>
 			<key>timeStoppedRecording</key>
-			<real>666054205.37510097</real>
+			<real>666156134.72312999</real>
 			<key>title</key>
 			<string>Build target C19DataDownload</string>
 			<key>uniqueIdentifier</key>
-			<string>936BEF59-899E-4AC6-8C30-E31F85625C34</string>
+			<string>6FACB7AD-FCC9-4F82-B78E-364ECDED65E1</string>
+		</dict>
+		<key>76DE3684-4519-41BE-827A-04A4572EED61</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.target</string>
+			<key>fileName</key>
+			<string>76DE3684-4519-41BE-827A-04A4572EED61.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>SwiftCSV-azvyuroyzjtnrjelzwinfvfpeelm</string>
+			<key>timeStartedRecording</key>
+			<real>666156121.39220595</real>
+			<key>timeStoppedRecording</key>
+			<real>666156126.688411</real>
+			<key>title</key>
+			<string>Build target SwiftCSV</string>
+			<key>uniqueIdentifier</key>
+			<string>76DE3684-4519-41BE-827A-04A4572EED61</string>
 		</dict>
 		<key>CEC2CD27-35DD-43D5-8289-EBDC0CAB306C</key>
 		<dict>

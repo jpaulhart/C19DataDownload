@@ -1,0 +1,60 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "c857346206b47eae91d3311e8b57be21111b8ecdfddce4dca3aad28c201714a8"
+    }
+  ],
+  "containerPath" : "/Users/paulhart/Dropbox/Covid-19/C19DataDownload/C19DataDownload.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx12.3",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "x86_64h",
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/paulhart/Dropbox/Covid-19/C19DataDownload/DerivedData/C19DataDownload/Index/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/paulhart/Dropbox/Covid-19/C19DataDownload/DerivedData/C19DataDownload/Index/Build/Products",
+      "derivedDataPath" : "/Users/paulhart/Dropbox/Covid-19/C19DataDownload/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/paulhart/Dropbox/Covid-19/C19DataDownload/DerivedData/C19DataDownload/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/paulhart/Dropbox/Covid-19/C19DataDownload/DerivedData/C19DataDownload/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/paulhart/Dropbox/Covid-19/C19DataDownload/DerivedData/C19DataDownload/Index/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/paulhart/Dropbox/Covid-19/C19DataDownload/DerivedData/C19DataDownload/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

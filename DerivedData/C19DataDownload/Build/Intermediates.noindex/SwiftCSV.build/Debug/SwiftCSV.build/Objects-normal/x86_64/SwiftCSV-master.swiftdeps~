@@ -1,0 +1,19 @@
+version: "Apple Swift version 5.6 (swiftlang-5.6.0.320.8 clang-1316.0.18.8)"
+options: "8ee1be9a498768d6e413b2382f77669dc152d454dd6040d60fbfd995096f1b3f"
+build_start_time: [1644258209, 65479993]
+build_end_time: [1644258221, 987310886]
+inputs:
+  ? "/Users/paulhart/Library/Developer/Xcode/DerivedData/C19DataDownload-cnpzvmjghxcfncaujqilsjpamlii/SourcePackages/checkouts/SwiftCSV/SwiftCSV/CSV.swift"
+  : [1644112226, 915626525]
+  ? "/Users/paulhart/Library/Developer/Xcode/DerivedData/C19DataDownload-cnpzvmjghxcfncaujqilsjpamlii/SourcePackages/checkouts/SwiftCSV/SwiftCSV/Description.swift"
+  : [1644112226, 915823459]
+  ? "/Users/paulhart/Library/Developer/Xcode/DerivedData/C19DataDownload-cnpzvmjghxcfncaujqilsjpamlii/SourcePackages/checkouts/SwiftCSV/SwiftCSV/EnumeratedView.swift"
+  : [1644112226, 916051387]
+  ? "/Users/paulhart/Library/Developer/Xcode/DerivedData/C19DataDownload-cnpzvmjghxcfncaujqilsjpamlii/SourcePackages/checkouts/SwiftCSV/SwiftCSV/NamedView.swift"
+  : [1644112226, 916304349]
+  ? "/Users/paulhart/Library/Developer/Xcode/DerivedData/C19DataDownload-cnpzvmjghxcfncaujqilsjpamlii/SourcePackages/checkouts/SwiftCSV/SwiftCSV/Parser.swift"
+  : [1644112226, 916481018]
+  ? "/Users/paulhart/Library/Developer/Xcode/DerivedData/C19DataDownload-cnpzvmjghxcfncaujqilsjpamlii/SourcePackages/checkouts/SwiftCSV/SwiftCSV/ParsingState.swift"
+  : [1644112226, 916627407]
+  ? "/Users/paulhart/Library/Developer/Xcode/DerivedData/C19DataDownload-cnpzvmjghxcfncaujqilsjpamlii/SourcePackages/checkouts/SwiftCSV/SwiftCSV/String+Lines.swift"
+  : [1644112226, 916777610]

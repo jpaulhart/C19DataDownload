@@ -718,6 +718,306 @@
           ]
         },
         {
+          "kind": "Var",
+          "name": "selected",
+          "printedName": "selected",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Bool",
+              "printedName": "Swift.Bool",
+              "usr": "s:Sb"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:15C19DataDownload17LocationIndexItemC8selectedSbvp",
+          "mangledName": "$s15C19DataDownload17LocationIndexItemC8selectedSbvp",
+          "moduleName": "C19DataDownload",
+          "isOpen": true,
+          "declAttributes": [
+            "HasInitialValue",
+            "HasStorage",
+            "RawDocComment"
+          ],
+          "fixedbinaryorder": 3,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Bool",
+                  "printedName": "Swift.Bool",
+                  "usr": "s:Sb"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:15C19DataDownload17LocationIndexItemC8selectedSbvg",
+              "mangledName": "$s15C19DataDownload17LocationIndexItemC8selectedSbvg",
+              "moduleName": "C19DataDownload",
+              "implicit": true,
+              "isOpen": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "get"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Set",
+              "printedName": "Set()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Bool",
+                  "printedName": "Swift.Bool",
+                  "usr": "s:Sb"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:15C19DataDownload17LocationIndexItemC8selectedSbvs",
+              "mangledName": "$s15C19DataDownload17LocationIndexItemC8selectedSbvs",
+              "moduleName": "C19DataDownload",
+              "implicit": true,
+              "isOpen": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "set"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Modify",
+              "printedName": "Modify()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:15C19DataDownload17LocationIndexItemC8selectedSbvM",
+              "mangledName": "$s15C19DataDownload17LocationIndexItemC8selectedSbvM",
+              "moduleName": "C19DataDownload",
+              "implicit": true,
+              "isOpen": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "_modify"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "loaded",
+          "printedName": "loaded",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Bool",
+              "printedName": "Swift.Bool",
+              "usr": "s:Sb"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:15C19DataDownload17LocationIndexItemC6loadedSbvp",
+          "mangledName": "$s15C19DataDownload17LocationIndexItemC6loadedSbvp",
+          "moduleName": "C19DataDownload",
+          "isOpen": true,
+          "declAttributes": [
+            "HasInitialValue",
+            "HasStorage",
+            "RawDocComment"
+          ],
+          "fixedbinaryorder": 4,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Bool",
+                  "printedName": "Swift.Bool",
+                  "usr": "s:Sb"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:15C19DataDownload17LocationIndexItemC6loadedSbvg",
+              "mangledName": "$s15C19DataDownload17LocationIndexItemC6loadedSbvg",
+              "moduleName": "C19DataDownload",
+              "implicit": true,
+              "isOpen": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "get"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Set",
+              "printedName": "Set()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Bool",
+                  "printedName": "Swift.Bool",
+                  "usr": "s:Sb"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:15C19DataDownload17LocationIndexItemC6loadedSbvs",
+              "mangledName": "$s15C19DataDownload17LocationIndexItemC6loadedSbvs",
+              "moduleName": "C19DataDownload",
+              "implicit": true,
+              "isOpen": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "set"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Modify",
+              "printedName": "Modify()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:15C19DataDownload17LocationIndexItemC6loadedSbvM",
+              "mangledName": "$s15C19DataDownload17LocationIndexItemC6loadedSbvM",
+              "moduleName": "C19DataDownload",
+              "implicit": true,
+              "isOpen": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "_modify"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "loadedDate",
+          "printedName": "loadedDate",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Date",
+              "printedName": "Foundation.Date",
+              "usr": "s:10Foundation4DateV"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:15C19DataDownload17LocationIndexItemC10loadedDate10Foundation0H0Vvp",
+          "mangledName": "$s15C19DataDownload17LocationIndexItemC10loadedDate10Foundation0H0Vvp",
+          "moduleName": "C19DataDownload",
+          "isOpen": true,
+          "declAttributes": [
+            "HasInitialValue",
+            "HasStorage",
+            "RawDocComment"
+          ],
+          "fixedbinaryorder": 5,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Date",
+                  "printedName": "Foundation.Date",
+                  "usr": "s:10Foundation4DateV"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:15C19DataDownload17LocationIndexItemC10loadedDate10Foundation0H0Vvg",
+              "mangledName": "$s15C19DataDownload17LocationIndexItemC10loadedDate10Foundation0H0Vvg",
+              "moduleName": "C19DataDownload",
+              "implicit": true,
+              "isOpen": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "get"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Set",
+              "printedName": "Set()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Date",
+                  "printedName": "Foundation.Date",
+                  "usr": "s:10Foundation4DateV"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:15C19DataDownload17LocationIndexItemC10loadedDate10Foundation0H0Vvs",
+              "mangledName": "$s15C19DataDownload17LocationIndexItemC10loadedDate10Foundation0H0Vvs",
+              "moduleName": "C19DataDownload",
+              "implicit": true,
+              "isOpen": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "set"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Modify",
+              "printedName": "Modify()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:15C19DataDownload17LocationIndexItemC10loadedDate10Foundation0H0VvM",
+              "mangledName": "$s15C19DataDownload17LocationIndexItemC10loadedDate10Foundation0H0VvM",
+              "moduleName": "C19DataDownload",
+              "implicit": true,
+              "isOpen": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "_modify"
+            }
+          ]
+        },
+        {
           "kind": "Constructor",
           "name": "init",
           "printedName": "init(displayName:fileName:)",
