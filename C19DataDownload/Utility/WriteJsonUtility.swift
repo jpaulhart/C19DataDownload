@@ -71,3 +71,4 @@ func writeJsonIndex(locationIndex: LocationIndex, jsonDirectory: String) throws 
     }
     print("     writeJsonIndex - \(fileUrl)")
 }
+
