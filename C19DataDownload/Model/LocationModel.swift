@@ -16,8 +16,8 @@ class LocationIndexItem: Codable {
     var id: UUID = UUID()                                 // Item id
     var displayName: String = ""                          // Display Name
     var fileName: String = ""                             // File Name
-    var selected: Bool = false                            // Location selected for graphing indicator
-    var loaded: Bool = false                              // Location data load indicator
+    var isSelected: Bool = false                          // Location selected for graphing indicator
+    var isLoaded: Bool = false                            // Location data load indicator
     var loadedDate: Date = Date.now                       // Location data loaded date and time
 
     init(displayName: String, fileName: String) {

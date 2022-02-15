@@ -719,8 +719,8 @@
         },
         {
           "kind": "Var",
-          "name": "selected",
-          "printedName": "selected",
+          "name": "isSelected",
+          "printedName": "isSelected",
           "children": [
             {
               "kind": "TypeNominal",
@@ -730,8 +730,8 @@
             }
           ],
           "declKind": "Var",
-          "usr": "s:15C19DataDownload17LocationIndexItemC8selectedSbvp",
-          "mangledName": "$s15C19DataDownload17LocationIndexItemC8selectedSbvp",
+          "usr": "s:15C19DataDownload17LocationIndexItemC10isSelectedSbvp",
+          "mangledName": "$s15C19DataDownload17LocationIndexItemC10isSelectedSbvp",
           "moduleName": "C19DataDownload",
           "isOpen": true,
           "declAttributes": [
@@ -755,8 +755,8 @@
                 }
               ],
               "declKind": "Accessor",
-              "usr": "s:15C19DataDownload17LocationIndexItemC8selectedSbvg",
-              "mangledName": "$s15C19DataDownload17LocationIndexItemC8selectedSbvg",
+              "usr": "s:15C19DataDownload17LocationIndexItemC10isSelectedSbvg",
+              "mangledName": "$s15C19DataDownload17LocationIndexItemC10isSelectedSbvg",
               "moduleName": "C19DataDownload",
               "implicit": true,
               "isOpen": true,
@@ -783,8 +783,8 @@
                 }
               ],
               "declKind": "Accessor",
-              "usr": "s:15C19DataDownload17LocationIndexItemC8selectedSbvs",
-              "mangledName": "$s15C19DataDownload17LocationIndexItemC8selectedSbvs",
+              "usr": "s:15C19DataDownload17LocationIndexItemC10isSelectedSbvs",
+              "mangledName": "$s15C19DataDownload17LocationIndexItemC10isSelectedSbvs",
               "moduleName": "C19DataDownload",
               "implicit": true,
               "isOpen": true,
@@ -805,8 +805,8 @@
                 }
               ],
               "declKind": "Accessor",
-              "usr": "s:15C19DataDownload17LocationIndexItemC8selectedSbvM",
-              "mangledName": "$s15C19DataDownload17LocationIndexItemC8selectedSbvM",
+              "usr": "s:15C19DataDownload17LocationIndexItemC10isSelectedSbvM",
+              "mangledName": "$s15C19DataDownload17LocationIndexItemC10isSelectedSbvM",
               "moduleName": "C19DataDownload",
               "implicit": true,
               "isOpen": true,
@@ -819,8 +819,8 @@
         },
         {
           "kind": "Var",
-          "name": "loaded",
-          "printedName": "loaded",
+          "name": "isLoaded",
+          "printedName": "isLoaded",
           "children": [
             {
               "kind": "TypeNominal",
@@ -830,8 +830,8 @@
             }
           ],
           "declKind": "Var",
-          "usr": "s:15C19DataDownload17LocationIndexItemC6loadedSbvp",
-          "mangledName": "$s15C19DataDownload17LocationIndexItemC6loadedSbvp",
+          "usr": "s:15C19DataDownload17LocationIndexItemC8isLoadedSbvp",
+          "mangledName": "$s15C19DataDownload17LocationIndexItemC8isLoadedSbvp",
           "moduleName": "C19DataDownload",
           "isOpen": true,
           "declAttributes": [
@@ -855,8 +855,8 @@
                 }
               ],
               "declKind": "Accessor",
-              "usr": "s:15C19DataDownload17LocationIndexItemC6loadedSbvg",
-              "mangledName": "$s15C19DataDownload17LocationIndexItemC6loadedSbvg",
+              "usr": "s:15C19DataDownload17LocationIndexItemC8isLoadedSbvg",
+              "mangledName": "$s15C19DataDownload17LocationIndexItemC8isLoadedSbvg",
               "moduleName": "C19DataDownload",
               "implicit": true,
               "isOpen": true,
@@ -883,8 +883,8 @@
                 }
               ],
               "declKind": "Accessor",
-              "usr": "s:15C19DataDownload17LocationIndexItemC6loadedSbvs",
-              "mangledName": "$s15C19DataDownload17LocationIndexItemC6loadedSbvs",
+              "usr": "s:15C19DataDownload17LocationIndexItemC8isLoadedSbvs",
+              "mangledName": "$s15C19DataDownload17LocationIndexItemC8isLoadedSbvs",
               "moduleName": "C19DataDownload",
               "implicit": true,
               "isOpen": true,
@@ -905,8 +905,8 @@
                 }
               ],
               "declKind": "Accessor",
-              "usr": "s:15C19DataDownload17LocationIndexItemC6loadedSbvM",
-              "mangledName": "$s15C19DataDownload17LocationIndexItemC6loadedSbvM",
+              "usr": "s:15C19DataDownload17LocationIndexItemC8isLoadedSbvM",
+              "mangledName": "$s15C19DataDownload17LocationIndexItemC8isLoadedSbvM",
               "moduleName": "C19DataDownload",
               "implicit": true,
               "isOpen": true,

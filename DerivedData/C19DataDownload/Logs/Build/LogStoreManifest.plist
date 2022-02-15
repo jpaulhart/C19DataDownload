@@ -6,6 +6,244 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
+		<key>0A4D6CD5-16DC-4396-B939-9480DD68F03A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0A4D6CD5-16DC-4396-B939-9480DD68F03A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>C19DataDownload project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>C19DataDownload</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build C19DataDownload</string>
+			<key>timeStartedRecording</key>
+			<real>666591483.79620099</real>
+			<key>timeStoppedRecording</key>
+			<real>666591485.17587197</real>
+			<key>title</key>
+			<string>Build C19DataDownload</string>
+			<key>uniqueIdentifier</key>
+			<string>0A4D6CD5-16DC-4396-B939-9480DD68F03A</string>
+		</dict>
+		<key>24F0B7BF-5074-4AED-9929-5970549CA195</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>24F0B7BF-5074-4AED-9929-5970549CA195.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>C19DataDownload project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>C19DataDownload</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build C19DataDownload</string>
+			<key>timeStartedRecording</key>
+			<real>666591688.47234404</real>
+			<key>timeStoppedRecording</key>
+			<real>666591690.094805</real>
+			<key>title</key>
+			<string>Build C19DataDownload</string>
+			<key>uniqueIdentifier</key>
+			<string>24F0B7BF-5074-4AED-9929-5970549CA195</string>
+		</dict>
+		<key>2B011884-82F9-45CF-BC19-4AB9B5C6153E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2B011884-82F9-45CF-BC19-4AB9B5C6153E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>C19DataDownload project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>C19DataDownload</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build C19DataDownload</string>
+			<key>timeStartedRecording</key>
+			<real>666591203.55249298</real>
+			<key>timeStoppedRecording</key>
+			<real>666591205.09461606</real>
+			<key>title</key>
+			<string>Build C19DataDownload</string>
+			<key>uniqueIdentifier</key>
+			<string>2B011884-82F9-45CF-BC19-4AB9B5C6153E</string>
+		</dict>
+		<key>6331F72E-3CE0-4957-B8F7-DFC2998F44C2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6331F72E-3CE0-4957-B8F7-DFC2998F44C2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>C19DataDownload project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>C19DataDownload</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build C19DataDownload</string>
+			<key>timeStartedRecording</key>
+			<real>666591531.65580404</real>
+			<key>timeStoppedRecording</key>
+			<real>666591532.72712302</real>
+			<key>title</key>
+			<string>Build C19DataDownload</string>
+			<key>uniqueIdentifier</key>
+			<string>6331F72E-3CE0-4957-B8F7-DFC2998F44C2</string>
+		</dict>
+		<key>691120CD-5276-4292-875B-C9AD3C7207C8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>691120CD-5276-4292-875B-C9AD3C7207C8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>C19DataDownload project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>C19DataDownload</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build C19DataDownload</string>
+			<key>timeStartedRecording</key>
+			<real>666591620.13406503</real>
+			<key>timeStoppedRecording</key>
+			<real>666591621.95176399</real>
+			<key>title</key>
+			<string>Build C19DataDownload</string>
+			<key>uniqueIdentifier</key>
+			<string>691120CD-5276-4292-875B-C9AD3C7207C8</string>
+		</dict>
+		<key>75263F0D-2852-4B07-BA9B-8DC6DA4634A8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>75263F0D-2852-4B07-BA9B-8DC6DA4634A8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>C19DataDownload project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>C19DataDownload</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build C19DataDownload</string>
+			<key>timeStartedRecording</key>
+			<real>666591458.13143206</real>
+			<key>timeStoppedRecording</key>
+			<real>666591459.40327704</real>
+			<key>title</key>
+			<string>Build C19DataDownload</string>
+			<key>uniqueIdentifier</key>
+			<string>75263F0D-2852-4B07-BA9B-8DC6DA4634A8</string>
+		</dict>
+		<key>92F62387-678F-4662-8002-5F5F610FF72B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>92F62387-678F-4662-8002-5F5F610FF72B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>C19DataDownload project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>C19DataDownload</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build C19DataDownload</string>
+			<key>timeStartedRecording</key>
+			<real>666591161.50911701</real>
+			<key>timeStoppedRecording</key>
+			<real>666591162.93795002</real>
+			<key>title</key>
+			<string>Build C19DataDownload</string>
+			<key>uniqueIdentifier</key>
+			<string>92F62387-678F-4662-8002-5F5F610FF72B</string>
+		</dict>
 		<key>A0C82D88-03D3-4EF6-A9AF-A0A007F0DEB4</key>
 		<dict>
 			<key>className</key>
@@ -39,6 +277,40 @@
 			<string>Build C19DataDownload</string>
 			<key>uniqueIdentifier</key>
 			<string>A0C82D88-03D3-4EF6-A9AF-A0A007F0DEB4</string>
+		</dict>
+		<key>EE395001-8FD0-4CB9-870B-BEF4B62C27E5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EE395001-8FD0-4CB9-870B-BEF4B62C27E5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>C19DataDownload project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>C19DataDownload</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build C19DataDownload</string>
+			<key>timeStartedRecording</key>
+			<real>666591957.48373604</real>
+			<key>timeStoppedRecording</key>
+			<real>666591959.70732498</real>
+			<key>title</key>
+			<string>Build C19DataDownload</string>
+			<key>uniqueIdentifier</key>
+			<string>EE395001-8FD0-4CB9-870B-BEF4B62C27E5</string>
 		</dict>
 	</dict>
 </dict>

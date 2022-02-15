@@ -13,6 +13,8 @@ func writeJsonFiles(italyItems: ItalyItems, worldItems: WorldItems, jsonDirector
     let locationIndex: LocationIndex = LocationIndex()
     
     let keys = italyItems.italyLocations.keys
+    
+
     for key in keys {
         let location = italyItems.italyLocations[key]
         try! writeJsonFile(location: location!, jsonDirectory: jsonDirectory)
@@ -23,6 +25,8 @@ func writeJsonFiles(italyItems: ItalyItems, worldItems: WorldItems, jsonDirector
         try! writeJsonFile(location: location, jsonDirectory: jsonDirectory)
         locationIndex.locationIndexItems.append(LocationIndexItem(displayName: location.displayName, fileName: location.fileName))
     }
+    
+    locationIndex.locationIndexItems.sort(by: { $0.displayName < $1.displayName})
     
     try! writeJsonIndex(locationIndex: locationIndex, jsonDirectory: jsonDirectory)
     
