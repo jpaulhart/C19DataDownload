@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>2ACC2E91-26C9-46B8-9246-BA1F8349C8EA</key>
+		<key>5E33F010-749A-40D1-B613-C71C453050DF</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogMajorGroupSection</string>
@@ -15,24 +15,24 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.target.product-type.tool</string>
 			<key>fileName</key>
-			<string>2ACC2E91-26C9-46B8-9246-BA1F8349C8EA.xcactivitylog</string>
+			<string>5E33F010-749A-40D1-B613-C71C453050DF.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>S</string>
+				<string>W</string>
 			</dict>
 			<key>signature</key>
 			<string>C19DataDownload-cnpzvmjghxcfncaujqilsjpamlii</string>
 			<key>timeStartedRecording</key>
-			<real>666591957.54247797</real>
+			<real>666836652.85280502</real>
 			<key>timeStoppedRecording</key>
-			<real>666591959.69935405</real>
+			<real>666836655.17816997</real>
 			<key>title</key>
 			<string>Build target C19DataDownload</string>
 			<key>uniqueIdentifier</key>
-			<string>2ACC2E91-26C9-46B8-9246-BA1F8349C8EA</string>
+			<string>5E33F010-749A-40D1-B613-C71C453050DF</string>
 		</dict>
 		<key>76DE3684-4519-41BE-827A-04A4572EED61</key>
 		<dict>

@@ -9,7 +9,10 @@ import Foundation
 import SwiftUI
 
 class LocationIndex: ObservableObject, Codable {
-    var locationIndexItems: [LocationIndexItem] = []      // Collection of Index entries 
+    var locationIndexItems: [LocationIndexItem] = []      // Collection of Index entries
+    var selectedLocations: [String] = []
+    let defaultSelectedLocations: [String] = ["Italy - Lazio", "Italy - Puglia", "Italy - Sicilia", "Italy - Basilicata", "Italy - Calabria", "Canada - British Columbia"]
+
 }
 
 class LocationIndexItem: Codable {
